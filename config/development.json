@@ -1,0 +1,16 @@
+{
+    "group": {
+      "access": {
+        "token": "850107717:AAG6AynpupVwe0aMEYuU8GO2Zn5yTPLiu3c",
+        "liveloGroup": "-285246856",
+        "WEBFEEDER_URL": "",
+        "WEBFEEDER_LOGIN_PATH":"",
+        "WEBFEEDER_LOGIN": "",
+        "WEBFEEDER_PASSWORD": "",
+        "WEBFEEDER_PORT": "443",
+        "APITOKEN": "",
+        "WEBFEEDER_TESOURODIRETO_LISTA_CLIENTE": ""
+      }
+    }
+  }
+
