@@ -6,7 +6,7 @@ module.exports = (app) => {
 
     return {
         healthCheck: async () => {
-           const cronTime = '*/1 * * * *';
+           const cronTime = '*/5 * * * *';
            const timeZone = 'America/Fortaleza';
 
            // create cron
@@ -21,7 +21,6 @@ module.exports = (app) => {
                 console.log(job.running); // true
                 console.log("===========================")
               }
-            // telegramService.sendMessage()
         }
     }
 }
